@@ -1,2 +1,1 @@
-"# EKF-Slam-Victoria-Park-Dataset-" 
-"# EKF-Slam-Victoria-Park-Dataset-" 
+This project contains implementation of SLAM system using Extended Kalman Filtering techniques using Victoria Park Data-set. The data-set contains LiDAR, Wheel encoder and GPS data and tries to map and localize the car and the trees surrounding it. The project is implemented in Python3.6

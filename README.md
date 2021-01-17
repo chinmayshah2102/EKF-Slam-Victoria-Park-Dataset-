@@ -1,4 +1,4 @@
-This project contains implementation of SLAM using Extended Kalman Filter on Victoria Park dataset.  
+# This project contains implementation of SLAM using Extended Kalman Filter on Victoria Park dataset.  
 The data-set contains Lidar, Wheel encoder and GPS data obtained from a pick-up truck driving around in Victoria Park, Sydney.  
 The project is implemented in Python3.6
 
